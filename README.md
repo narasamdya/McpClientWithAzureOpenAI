@@ -9,7 +9,7 @@ dotnet user-secrets set "AZURE_OPENAI_API_KEY" "<your key here>"
 
 Run client
 ```shell
-dotnet run -- "<path to your server>"Q:\src\MCPLearn\WeatherServer\WeatherServer.csproj
+dotnet run -- "<path to your server>"
 ```
 e.g., for [McpWeatherServer](https://github.com/narasamdya/McpWeatherServer)
 ```shell
